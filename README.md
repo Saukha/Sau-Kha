@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sau's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Saukha/data_analysis_project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
